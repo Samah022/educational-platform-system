@@ -34,4 +34,4 @@ The Educational Platform System aims to create a supportive learning environment
 - Sana Shamma
 - Salwa Shama
 - Samah Shama
-- Shatha Faraj
+- Jana Aldubai
